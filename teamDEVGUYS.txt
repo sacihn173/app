@@ -1,0 +1,17 @@
+APP NAME-LearnOInvest
+THEME-Educational
+
+IDEA BRIEF-
+To create an app that enables the people to learn to trade stocks using virtual money/fake money/points.
+The price of stocks would be updated in real time providing a real time experience.
+
+TECH STACK-
+Java,XML
+
+WHAT POSITIVE AND UNIQUE SOLUTIONS OUR IDEA HAVE-
+1. There is no point of risking money as our app provides an unique way of using virtual money.
+2.One can get a real life trading experience.
+3.This will encourage new people to invest as now they have an option to learn to trade until theybecome
+  confident.
+3.One can have a better understanding of the market that how everything is related to each other and how change in   one thing can have effect on other things. 
+  For ex- how decline in tyre production may affect the vehicles production.
